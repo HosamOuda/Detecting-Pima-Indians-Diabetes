@@ -33,8 +33,20 @@ of going to the medical centers and wait for the results</p><br>
   <li> Consider the data that falls in the range between Q1-1.5 IQR and Q3+1.5 IQR </li>
 </ol>
 <h3>Further Exploration through plots 🕵🏻‍♂️</h3>
-<p> Histogram</p>
-<img src="https://cdn.discordapp.com/attachments/820090984553119765/853052231238025256/unknown.png" width="370"/><br>
+<h4>Histogram</h4>
+<table style="width:100%">
+  <tr>
+    <th>Histogram of the dataset before cleaning</th>
+    <th>Histogram of the dataset after cleaning</th> 
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/attachments/820090984553119765/853248251952103424/unknown.png" width="370"/></td>
+    <td><img src="https://cdn.discordapp.com/attachments/820090984553119765/853052231238025256/unknown.png" width="370"/></td>
+  </tr>
+</table>
+
+<p> Boxplot </p>
+<img src="https://cdn.discordapp.com/attachments/820090984553119765/853249289543614464/unknown.png" width="370"/><br>
 <h3> Machine Learning Models 💻🤔 <h3>
 <p> we implemented machine learning models to check their difference in accuracy in predicting whether or not the patient is diabetic by using the library 
   <code>scikit-learn</code> </p>
