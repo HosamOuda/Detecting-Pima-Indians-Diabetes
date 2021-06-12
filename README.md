@@ -57,4 +57,4 @@ of going to the medical centers and wait for the results</p><br>
     <li>Decision Tree</li> 
     <li>Random Forest </li>
   </ul>
-<p>🌟🌟🌟 You can check their accuracy , precision and other parameters by opening the colab link provided 🌟🌟🌟 </p>
+<p> 🌟 You can check their accuracy , precision and other parameters by opening the colab link provided 🌟</p>
