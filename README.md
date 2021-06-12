@@ -48,7 +48,7 @@ of going to the medical centers and wait for the results</p><br>
 <p> Boxplot </p>
 <img src="https://cdn.discordapp.com/attachments/820090984553119765/853249289543614464/unknown.png" width="370"/><br>
 <h3> Machine Learning Models 💻🤔 <h3>
-<p> we implemented machine learning models to check their difference in accuracy in predicting whether or not the patient is diabetic by using the library 
+<p>  We implemented machine learning models to check their difference in accuracy in predicting whether or not the patient is diabetic by using the library 
   <code>scikit-learn</code> </p>
   <ul>
     <li>Logistic Regression</li>
