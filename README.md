@@ -39,7 +39,7 @@ of going to the medical centers and wait for the results</p><br>
 <p> we implemented machine learning models to check their difference in accuracy in predicting whether or not the patient is diabetic by using the library 
   <code>scikit-learn</code> </p>
   <ul>
-    <li>Logistic Regression/li>
+    <li>Logistic Regression</li>
     <li>K-Nearest Neighbors</li> 
     <li>Support Vector Machine</li> 
     <li>Decision Tree</li> 
